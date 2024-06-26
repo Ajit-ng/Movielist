@@ -2,7 +2,7 @@ const url = 'https://imdb-top-100-movies.p.rapidapi.com/';
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '52fcb7e4dcmsh406678014738ed3p1a1d80jsn13808482abbb',
+        'X-RapidAPI-Key': '5a0327fb00msh0153d641ed4da25p1ac102jsnd8ecb5ac9a4a',
         'X-RapidAPI-Host': 'imdb-top-100-movies.p.rapidapi.com'
     }
 };
