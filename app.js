@@ -54,7 +54,7 @@ function filterMovies(searchword) {
                         <h2>${movie.title}</h2>
                         <button onclick="addFavorite(${index})">Add to Favorite</button>
                         <button onclick="removeFavorite(${index})">Remove from Favorite</button>
-                        <button class="review-button">Review</button>`;
+                        <button class="review-button">Description</button>`;
             div.innerHTML = html;
             mainPage.appendChild(div);
 
